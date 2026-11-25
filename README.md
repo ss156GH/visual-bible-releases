@@ -1,6 +1,6 @@
-# Visual Bible — Android releases
+# KJV Bible: Art, Audio, & Chat — Android releases
 
-Official Android downloads for **Visual Bible — KJV Bible: Art, Audio, & Chat**.
+Official Android downloads for **KJV Bible: Art, Audio, & Chat**.
 
 - Website, install and update instructions: https://visual-bible-site.netmoney0071.workers.dev
 - Download the latest version from the [Releases](../../releases/latest) page (`visual-bible.apk`).
